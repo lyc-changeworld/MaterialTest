@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--这里设置的style只有在Api21及以上的系统使用时才会加载-->
+    <style name="FruitActivityTheme" parent="AppTheme">
+        <!--设置状态栏的颜色为透明色-->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

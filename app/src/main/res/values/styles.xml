@@ -8,4 +8,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!--这里添加的style是在不分系统的情况下默认使用的-->
+    <style name="FruitActivityTheme" parent="AppTheme">
+    </style>
+
 </resources>
